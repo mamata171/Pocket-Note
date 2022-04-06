@@ -1,0 +1,40 @@
+#mainh1{
+    color: rgb(208, 84, 121);
+    font-family: 'Dancing Script', cursive;    
+    /* font-family: 'Roboto Slab', serif; */
+    /* text-shadow: 4px 4px 5px; */
+    text-align: center;
+    padding-bottom: 3px;
+
+
+}
+
+#magicnote{
+    font-family: 'Roboto Slab', serif;
+    
+    /* text-shadow: 2px 3px 2px white; */
+}
+
+#secondh1{
+    /* font-family: 'Dancing Script', cursive;   */
+    font-family: 'Roboto Slab', serif;
+}
+
+.editcard{
+    border: 2px solid rgb(96, 88, 88);
+
+}
+
+.form-group{
+    border: 2px solid pink;
+    /* border-radius: 30px; */
+}
+
+.maincont{
+    padding-top: 92px;
+
+}
+
+.cards{
+    align-items: center;
+}
